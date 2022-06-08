@@ -7,6 +7,7 @@ menu=["----------------","Opcion 1-Registrar automovil","Opcion 2-Registro mante
 swmenu=1
 nummenu=int()
 contador=0
+HOLA=2
 
 try:
     while swmenu == 1:
